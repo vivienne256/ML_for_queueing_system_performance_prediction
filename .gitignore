@@ -1,0 +1,15 @@
+# Python and Jupyter
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Generated simulation outputs
+MM1_revised_outputs/
+MGI1_stationary_revised/
+MPH1_outputs_SCV_updates/
+PHPH1_stationary_outputs/
+MAPPH1_expanded_outputs/
